@@ -92,25 +92,6 @@
 
 ---
 
-## 📊 **PROJECT STATS**
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mr-GDs.prince-gds)
-![Last Commit](https://img.shields.io/github/last-commit/Mr-GDs/prince-gds?color=00d4ff&style=flat-square)
-![Repository Size](https://img.shields.io/github/repo-size/Mr-GDs/prince-gds?color=8a2be2&style=flat-square)
-
-</div>
-
----
-
-## 🔐 **SECURITY & SAFETY**
-
-✅ **Open Source & Transparent**  
-✅ **GPL 3.0 Licensed**  
-✅ **Regular Security Updates**  
-✅ **No Data Collection**  
-✅ **Community Verified**  
 
 ---
 
@@ -120,13 +101,11 @@
 
 ---
 
-## 📞 **CONTACT & SUPPORT**
-
 <div align="center">
 
-**Developer:** Mr-DASTAGEER 
-**GitHub:** [@Mr-GDs](https://github.com/Mr-GDs)  
-**Support Channel:** [Prince Updates](https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11)
+**Developer:** [Mr-DASTAGEER](https://wa.me/message/DCAK67ON3XVOG1)
+[![WhatsApp Channel](https://img.shields.io/badge/Follow_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11)
+
 
 </div>
 
